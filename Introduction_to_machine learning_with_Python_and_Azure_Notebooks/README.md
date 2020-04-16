@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/
